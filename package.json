@@ -1,0 +1,12 @@
+{
+  "name": "auto_arrange_downloads",
+  "version": "0.1.0",
+  "description": "This apps runs on the background and checks for every new files that is downloaded to a certain folder, it creates subfolders based on the file types",
+  "main": "index.js",
+  "repository": "https://github.com/souravrax/electro-dragon.git",
+  "author": "Sourav Rakshit",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^30.0.3"
+  }
+}
